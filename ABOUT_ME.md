@@ -14,4 +14,4 @@
 
 - 📫 You can reach me at pietropianigiani2@gmail.com for clarifications on my small code contibutions and also to share passions and nerdy stuff.
   
-                                                            "Passion as a side-effect of mastery"
+                                                       "Passion as a side-effect of mastery"
